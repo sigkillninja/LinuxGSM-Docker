@@ -52,7 +52,6 @@ apt install -y \
     libsdl1.2debian \
     libsdl2-2.0-0:i386 \
     libssl-dev:i386 \
-    libssl1.1-udeb:i386 \
     libstdc++5:i386 \
     libstdc++6 \
     libstdc++6:i386 \

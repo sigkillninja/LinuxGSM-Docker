@@ -1,12 +1,12 @@
 #
 # LinuxGSM Dockerfile
 #
-# https://github.com/GameServerManagers/LinuxGSM-Docker
+# https://github.com/sigkillninja/LinuxGSM-Docker
 #
 
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 
-LABEL maintainer="LinuxGSM <me@danielgibbs.co.uk>"
+LABEL maintainer="janet <janet@sigkill.ninja>"
 
 ENV DEBIAN_FRONTEND noninteractive
 

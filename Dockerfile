@@ -39,25 +39,24 @@ apt install -y \
     jq \
     lib32gcc1 \
     lib32stdc++6 \
-    lib32tinfo5 \
+    lib32tinfo6 \
     lib32z1 \
     libcurl4-gnutls-dev:i386 \
     libdbus-glib-1-2:i386 \
     libglu1-mesa:i386 \
     libldap-2.4-2:i386 \
     libncurses5:i386 \
-    libnm-glib-dev:i386 \
-    libnm-glib4:i386 \
+    libnm-dev:i386 \
     libopenal1:i386 \
     libpulse0:i386 \
     libsdl1.2debian \
     libsdl2-2.0-0:i386 \
-    libssl1.0.0:i386 \
+    libssl-dev:i386 \
+    libssl1.1-udeb:i386 \
     libstdc++5:i386 \
     libstdc++6 \
     libstdc++6:i386 \
     libtbb2 \
-    libtcmalloc-minimal4:i386 \
     libusb-1.0-0:i386 \
     libxrandr2:i386 \
     libxtst6:i386 \
